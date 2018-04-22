@@ -4,5 +4,4 @@ I built a compatibility-based "FriendFinder" application -- basically a dating a
 
 I used Express to handle routing.
 
-https://psychochris89.github.io/FriendFinder/
 
